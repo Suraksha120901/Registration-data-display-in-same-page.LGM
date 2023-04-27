@@ -1,0 +1,1 @@
+# Registration-data-display-in-same-page.LGM
